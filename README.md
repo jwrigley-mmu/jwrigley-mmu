@@ -2,7 +2,7 @@ Welcome to my GitHub! Here, you'll find a collection of projects designed to kic
 <br>
 <br>
 James Wrigley <br>
-Lecturer at Manchester Metropolitain University <br> 
+Lecturer at Manchester Metropolitan University <br> 
 _Graphic Design (Visual Communication & Digital Cultures)_ <br>
 <br>
 R : BZ.214 <br>
