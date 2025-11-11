@@ -5,5 +5,5 @@ James Wrigley <br>
 Lecturer at Manchester Metropolitan University <br> 
 _Graphic Design (Visual Communication & Digital Cultures)_ <br>
 <br>
-R : BZ.214 <br>
+R : LW.214 <br>
 E : j.wrigley@mmu.ac.uk <br>
